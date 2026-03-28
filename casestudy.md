@@ -88,8 +88,5 @@ Avoid using your number on public platforms for financial accounts. Use a separa
 
 > If you are a victim of financial fraud, call **1930 immediately**. The sooner you report, the higher the chance of blocking the fraudulent transaction.
 
----
 
-*This checklist was prepared as part of the CSE0001 Digital Literacy Project – Task 5.*  
-*VIT Bhopal University | Bharat Singh | 24BCE0001*
 
