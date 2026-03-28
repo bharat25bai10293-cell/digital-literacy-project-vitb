@@ -7,7 +7,7 @@ A comprehensive Digital Literacy Portfolio project showcasing essential digital 
 ---
 
 **Name:** Bharat Singh  
-**Registration No.:** 24BCE0001  
+**Registration No.:** 25BAI10293 
 **Branch:** B.Tech – CSE (AI & ML)  
 **Year:** First Year, Semester I  
 **Course:** CSE0001 – Digital Literacy  
