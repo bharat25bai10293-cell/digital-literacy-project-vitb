@@ -1,0 +1,27 @@
+# Task 2 – Digital Portfolio Reflection
+
+## Platforms Set Up
+
+### 1. GitHub (github.com)
+GitHub is a platform where developers store and share code using a system called Git. It is widely used for version control, open-source collaboration, and project showcasing. I created my profile and set up a special profile README repository (named after my username) with my name, branch, year, and what I hope to learn.
+
+**How I plan to use it:** I will upload all my coding assignments, mini-projects, and eventually larger projects as I progress through my B.Tech. By final year, I want my GitHub to serve as a strong, visible portfolio for internships and placements.
+
+---
+
+### 2. LinkedIn (linkedin.com)
+LinkedIn is a professional social networking platform used by students and working professionals to connect with each other, share achievements, and find job or internship opportunities. I filled in my Education section with my degree name, institution, and expected graduation year.
+
+**How I plan to use it:** I will gradually add skills, certifications, and internship experiences to my LinkedIn profile over the next four years. I also plan to connect with seniors from my college to learn from their career journeys.
+
+---
+
+### 3. Kaggle (kaggle.com)
+Kaggle is a data science and machine learning platform. It hosts datasets, notebooks, competitions, and learning courses. Since my branch is CSE AI & ML, this platform is especially relevant for me.
+
+**How I plan to use it:** I plan to complete Kaggle's beginner courses in Python and machine learning, and eventually participate in competitions to build my practical ML skills.
+
+---
+
+## Screenshots
+Screenshots of all three profiles have been saved in the task-2-portfolio/ folder.
