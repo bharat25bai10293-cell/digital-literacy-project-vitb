@@ -17,7 +17,9 @@ def solveMeFirst(a, b):
 
 The submission was accepted with a score of 1/1. I also explored the Python Introduction section and completed the "Say Hello, World!" challenge.
 
-**Screenshot:** Saved in task-3-platforms/
+**Screenshot:**
+<img width="1894" height="877" alt="Screenshot 2026-03-28 201953" src="https://github.com/user-attachments/assets/91a08227-203e-4933-ade8-6c703ba7d3cd" />
+
 
 ---
 
@@ -56,6 +58,7 @@ Name one platform that college students can use to showcase their coding project
 **Q5 (Short Answer)**  
 What is the National Cyber Crime Helpline number in India?  
 *(Expected answer: 1930)*
+<img width="1917" height="966" alt="Screenshot 2026-03-28 214949" src="https://github.com/user-attachments/assets/a8bb4f71-bfa2-49a5-a8c1-5ed1cd111de6" />
 
 ---
 
