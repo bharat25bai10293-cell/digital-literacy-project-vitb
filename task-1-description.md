@@ -39,3 +39,6 @@ The infographic is titled **"Be Digitally Smart – A Guide for Students"** and 
 
 ## Reflection
 Creating this infographic was a good experience. The most challenging part was fitting all the important information into a single page without making it look cluttered. I ended up cutting a lot of points and keeping only the most important ones. It was interesting to learn how visual design can communicate information faster than plain text.
+
+![285217ed-856b-4fb9-8b9e-36fc4f80fc7d](https://github.com/user-attachments/assets/97edf19c-c37a-45b0-948a-a6d556aded70)
+
