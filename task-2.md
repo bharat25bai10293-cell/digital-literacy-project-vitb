@@ -24,4 +24,10 @@ Kaggle is a data science and machine learning platform. It hosts datasets, noteb
 ---
 
 ## Screenshots
-Screenshots of all three profiles have been saved in the task-2-portfolio/ folder.
+
+<img width="1918" height="904" alt="Screenshot 2026-03-28 200620" src="https://github.com/user-attachments/assets/8151f903-532a-4825-8d48-1a7763e8805e" />
+<img width="1896" height="923" alt="Screenshot 2026-03-28 231027" src="https://github.com/user-attachments/assets/1aea0012-118f-400a-bba6-0e6e2b1545c1" />
+<img width="1256" height="764" alt="Screenshot 2026-03-28 231649" src="https://github.com/user-attachments/assets/0195432e-de4b-4ee6-93e8-6ee881a470ba" />
+
+
+
